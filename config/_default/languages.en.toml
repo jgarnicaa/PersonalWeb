@@ -15,8 +15,8 @@ title = "Profile"
 [params.author]
   name = "Eduardo Garnica"
   image = "../assets/img/Author_1.JPG"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Data scientist junior | INSA Toulouse FR | UNAL Bogotá CO | Available to work :)"
+  bio = "Having fun with data, models, AI and cloud computing.\n\n Hope my work could inspire you a little.\n\n Love hiking, mountains and lakes :)"
   links = [
      { email = "mailto:jgarnicaaza@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
