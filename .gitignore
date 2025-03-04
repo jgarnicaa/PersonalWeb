@@ -1,0 +1,20 @@
+# Hugo files
+public/
+resources/
+hugo_stats.json
+
+#
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# tmp and cache
+.cache/
+tmp/
+node_modules/
+
+.vscode/
+
+.env
+
