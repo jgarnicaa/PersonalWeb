@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - wget https://github.com/gohugoio/hugo/releases/download/v0.144.2/hugo_extended_withdeploy_0.144.2_Linux-64bit.tar.gz
+      - tar -xvzf hugo_extended_withdeploy_0.144.2_Linux-64bit.tar.gz
+      - mv hugo /usr/local/bin/
+  build:
+    commands:
+      - hugo
+  post_build:
+    commands:
+      - aws s3 sync public/ s3://eduardo-garnica/ --delete
