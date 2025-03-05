@@ -36,5 +36,33 @@
       <guid>//localhost:1313/posts/first_post/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Master&#39;s Degree in Electronics and Automation</title>
+      <link>//localhost:1313/edu/insa/</link>
+      <pubDate>Sat, 26 Oct 2024 17:40:28 +0100</pubDate>
+      <guid>//localhost:1313/edu/insa/</guid>
+      <description>National Institute of Applied Sciences (INSA Toulouse)</description>
+    </item>
+    <item>
+      <title>Work-Study Program (Alternance)</title>
+      <link>//localhost:1313/exp/keyia/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/exp/keyia/</guid>
+      <description>Deep Learning on Embedded Systems for Computer Vision</description>
+    </item>
+    <item>
+      <title>Summer Internship</title>
+      <link>//localhost:1313/exp/occion/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/exp/occion/</guid>
+      <description>Machine Learning Internship on Embedded Systems</description>
+    </item>
+    <item>
+      <title>Bachelor&#39;s Degree in Mechatronics Engineering</title>
+      <link>//localhost:1313/edu/unal/</link>
+      <pubDate>Sat, 10 Dec 2022 16:52:28 +0100</pubDate>
+      <guid>//localhost:1313/edu/unal/</guid>
+      <description>National University of Colombia</description>
+    </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ title = "Profile"
   dateFormat = "2 January 2006"
 
   mainSections = ["posts", "projects"]
-  description = "My awesome website"
+  description = "Personal website"
 
 [params.author]
   name = "Eduardo Garnica"
