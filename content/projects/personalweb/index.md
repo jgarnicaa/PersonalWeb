@@ -1,7 +1,7 @@
 ---
 title: "Personal website"
 date: 2025-03-04T14:08:28+01:00
-draft: false
+draft: true
 ---
 
 Que cómo hice mi pagina web, aquí te cuento:)

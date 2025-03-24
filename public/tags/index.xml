@@ -6,8 +6,71 @@
     <description>Recent content in Tags on Profile</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 17:40:28 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 12:33:28 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data</title>
+      <link>//localhost:1313/tags/data/</link>
+      <pubDate>Mon, 17 Mar 2025 12:33:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Mining</title>
+      <link>//localhost:1313/tags/data-mining/</link>
+      <pubDate>Mon, 17 Mar 2025 12:33:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/data-mining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/tags/python/</link>
+      <pubDate>Mon, 17 Mar 2025 12:33:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Scraping</title>
+      <link>//localhost:1313/tags/web-scraping/</link>
+      <pubDate>Mon, 17 Mar 2025 12:33:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>//localhost:1313/tags/genai/</link>
+      <pubDate>Wed, 26 Feb 2025 16:53:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>//localhost:1313/tags/llm/</link>
+      <pubDate>Wed, 26 Feb 2025 16:53:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>//localhost:1313/tags/machine-learning/</link>
+      <pubDate>Wed, 26 Feb 2025 16:53:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>//localhost:1313/tags/poetry/</link>
+      <pubDate>Wed, 26 Feb 2025 16:53:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Deployment</title>
+      <link>//localhost:1313/tags/web-deployment/</link>
+      <pubDate>Wed, 26 Feb 2025 16:53:28 +0100</pubDate>
+      <guid>//localhost:1313/tags/web-deployment/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Automation</title>
       <link>//localhost:1313/tags/automation/</link>
@@ -37,17 +100,38 @@
       <description></description>
     </item>
     <item>
+      <title>CNN</title>
+      <link>//localhost:1313/tags/cnn/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cnn/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Computer Vision</title>
       <link>//localhost:1313/tags/computer-vision/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>//localhost:1313/tags/deep-learning/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Embedded Systems</title>
       <link>//localhost:1313/tags/embedded-systems/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Professional Experience</title>
+      <link>//localhost:1313/tags/professional-experience/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/professional-experience/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +139,6 @@
       <link>//localhost:1313/tags/engineering/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/engineering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>//localhost:1313/tags/machine-learning/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>

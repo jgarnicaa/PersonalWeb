@@ -6,8 +6,15 @@
     <description>Recent content in Machine Learning on Profile</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 16:53:28 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GenAI Poetry based on LLM</title>
+      <link>//localhost:1313/projects/genai/</link>
+      <pubDate>Wed, 26 Feb 2025 16:53:28 +0100</pubDate>
+      <guid>//localhost:1313/projects/genai/</guid>
+      <description>An AI writing poetry? Really?!</description>
+    </item>
     <item>
       <title>Summer Internship</title>
       <link>//localhost:1313/exp/occion/</link>

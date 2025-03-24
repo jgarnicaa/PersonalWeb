@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webscrapping on Profile</title>
+    <link>//localhost:1313/tags/webscrapping/</link>
+    <description>Recent content in Webscrapping on Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Feb 2025 15:00:28 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/webscrapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webscrapping</title>
+      <link>//localhost:1313/posts/first_post/</link>
+      <pubDate>Wed, 26 Feb 2025 15:00:28 +0100</pubDate>
+      <guid>//localhost:1313/posts/first_post/</guid>
+      <description>What? How? When? Everything you need about webscrapping</description>
+    </item>
+  </channel>
+</rss>
